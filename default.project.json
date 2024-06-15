@@ -1,0 +1,9 @@
+{
+  "name": "plugin-template",
+  "tree": {
+    "$path": "src",
+    "packages": {
+      "$path": "Packages"
+    }
+  }
+}
