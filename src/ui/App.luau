@@ -20,7 +20,7 @@ local function App(props: AppProps)
 		text = "Crash Studio",
 		tooltip = "Click to crash Roblox Studio",
 		icon = constants.PLUGIN_ICON_ID,
-		active = true,
+		active = false,
 		onClick = crashStudio,
 	}
 
