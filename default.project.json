@@ -1,5 +1,5 @@
 {
-  "name": "plugin-template",
+  "name": "studio-crasher",
   "tree": {
     "$path": "src",
     "packages": {

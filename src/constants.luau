@@ -1,4 +1,4 @@
 return {
-  PLUGIN_NAME = "My Plugin name",
-  PLUGIN_ICON_ID = "rbxassetid://000000000",
+	PLUGIN_NAME = "Studio Crasher",
+	PLUGIN_ICON_ID = "rbxassetid://17871764370",
 }
